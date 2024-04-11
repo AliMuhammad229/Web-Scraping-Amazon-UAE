@@ -14,11 +14,11 @@ To run the script, you'll need the following:
 
 1. Clone this repository to your local machine: ```https://github.com/AliMuhammad229/Web-Scraping-Amazon-UAE/```
 2. Navigate to the project directory: ```cd Web-Scraping-Amazon-UAE```
-3. Run the Python script: ```python scrape_amazon_uae.py```
+3. Run the Python script: ```python Web_Scraping_Amazon_UAE.ipynb```
 
 ## Customization
 
-- You can customize the script to scrape other product categories by modifying the URL in the `BASE_URL` variable in the `scrape_amazon_uae.py` file.
+- You can customize the script to scrape other product categories by modifying the URL in the `BASE_URL` variable in the `Web_Scraping_Amazon_UAE.ipynb` file.
 - You can adjust the parsing logic in the script to extract additional information such as price, ratings, or reviews.
 
 ## Disclaimer
