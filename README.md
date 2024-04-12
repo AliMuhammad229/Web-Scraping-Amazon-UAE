@@ -20,12 +20,9 @@ To run the script, you'll need the following:
 
 - You can customize the script to scrape other product categories by modifying the URL in the `BASE_URL` variable in the `Web_Scraping_Amazon_UAE.ipynb` file.
 - You can adjust the parsing logic in the script to extract additional information such as price, ratings, or reviews.
+- Please make sure to review Amazon's terms of service and instruction file before scraping their website.
 
-## Disclaimer
-
-This project is for educational purposes only. Please make sure to review Amazon's terms of service and instruction file before scraping their website.
-
-Happy scraping!
+Happy scraping!!!
 
 
 
